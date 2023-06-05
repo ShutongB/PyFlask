@@ -75,4 +75,4 @@ The Flask Blog Web Application can be further enhanced with the following improv
 To learn more about Flask, HTML, CSS, and Jinja2, refer to the following resources:
 
 - Flask Documentation: [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
-- HTML Tutorial: [https://www.w3
+- HTML Tutorial: [https://www.w3schools.com/]
