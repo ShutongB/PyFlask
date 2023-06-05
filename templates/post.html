@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ post.title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<h1>{{ post.title }}</h1>
+<p>{{ post.content }}</p>
+<p class="author">By {{ post.author }}</p>
+</body>
+</html>
